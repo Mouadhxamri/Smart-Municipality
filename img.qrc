@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logo.png</file>
+        <file>entrer.jpg</file>
+        <file>chat.png</file>
+        <file>delete.png</file>
+        <file>electronics.png</file>
+        <file>emails.png</file>
+        <file>fb.png</file>
+        <file>fbb.png</file>
+        <file>file.png</file>
+        <file>help.png</file>
+        <file>iconn.png</file>
+        <file>loghh.png</file>
+        <file>modif.png</file>
+        <file>pdfimg.png</file>
+        <file>tools-and-utensils (2).png</file>
+        <file>webb.png</file>
+        <file>back.png</file>
+        <file>excel.png</file>
+    </qresource>
+</RCC>
